@@ -1,4 +1,10 @@
 # CLV analysis for an E-Commerce Site
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
 ## About the Project
 This analysis looks at three months of weekly e-commerce cohort data from November through January to track long-term Customer Lifetime Value (CLV). Data for the analysis was provided by Turing College.
 
@@ -21,6 +27,8 @@ This analysis looks at three months of weekly e-commerce cohort data from Novemb
 ## Repository Files
 - [Query](CLV%20project.sql)
 - [Dashboard](CLV%20project.xlsx)
+
+---
 
 ## Recommendation
 - Company needs an immediate review of Customer Acquisition strategy. Relying on heavy seasonal promotions like Black Friday to reach profitability isn't a sustainable long-term model for the rest of the year.
